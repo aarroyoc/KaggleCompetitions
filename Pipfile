@@ -8,6 +8,10 @@ scikit-learn = "*"
 pandas = "*"
 matplotlib = "*"
 notebook = "*"
+seaborn = "*"
+xgboost = "*"
+sacred = "*"
+pymongo = "*"
 
 [dev-packages]
 
