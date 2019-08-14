@@ -10,8 +10,8 @@ matplotlib = "*"
 notebook = "*"
 seaborn = "*"
 xgboost = "*"
-sacred = "*"
-pymongo = "*"
+numpy = "*"
+scipy = "*"
 
 [dev-packages]
 
